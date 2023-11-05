@@ -4,7 +4,7 @@ lib
 data
 pyvenv.cfg
 .idea
-
+*.iml
 # Default ignored files
 /shelf/
 /workspace.xml
