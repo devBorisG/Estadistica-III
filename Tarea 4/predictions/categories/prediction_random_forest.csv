@@ -41,10 +41,10 @@ ID,categoria
 477,Película y Animación
 433,Película y Animación
 615,Deportes
-229,Película y Animación
+229,Deportes
 695,Película y Animación
 66,Película y Animación
-917,Película y Animación
+917,Entretenimiento
 322,Deportes
 938,Otros
 242,Entretenimiento
@@ -59,7 +59,7 @@ ID,categoria
 951,Película y Animación
 761,Deportes
 333,Película y Animación
-644,Película y Animación
+644,Deportes
 880,Película y Animación
 153,Película y Animación
 378,Entretenimiento
@@ -102,14 +102,14 @@ ID,categoria
 268,Deportes
 336,Película y Animación
 299,Película y Animación
-757,Película y Animación
+757,Deportes
 723,Deportes
 63,Película y Animación
 677,Película y Animación
 207,Gente y Blogs
 572,Gente y Blogs
 625,Entretenimiento
-956,Película y Animación
+956,Entretenimiento
 254,Deportes
 68,Deportes
 175,Película y Animación
@@ -117,7 +117,7 @@ ID,categoria
 708,Película y Animación
 210,Educación
 222,Película y Animación
-316,Educación
+316,Otros
 490,Deportes
 219,Película y Animación
 544,Deportes
@@ -137,12 +137,12 @@ ID,categoria
 123,Deportes
 264,Deportes
 522,Deportes
-891,Deportes
+891,Película y Animación
 797,Deportes
 669,Deportes
 955,Deportes
-663,Entretenimiento
-115,Entretenimiento
+663,Educación
+115,Otros
 169,Entretenimiento
 741,Entretenimiento
 145,Entretenimiento
@@ -151,17 +151,17 @@ ID,categoria
 915,Entretenimiento
 295,Entretenimiento
 629,Entretenimiento
-683,Entretenimiento
+683,Educación
 351,Entretenimiento
 621,Entretenimiento
 581,Entretenimiento
-429,Entretenimiento
+429,Película y Animación
 288,Entretenimiento
 985,Entretenimiento
 535,Entretenimiento
-199,Película y Animación
-270,Película y Animación
-314,Película y Animación
+199,Entretenimiento
+270,Entretenimiento
+314,Entretenimiento
 157,Entretenimiento
 742,Entretenimiento
 913,Entretenimiento
@@ -178,7 +178,7 @@ ID,categoria
 705,Entretenimiento
 445,Entretenimiento
 782,Entretenimiento
-805,Entretenimiento
+805,Educación
 878,Entretenimiento
 550,Entretenimiento
 838,Entretenimiento
@@ -188,7 +188,7 @@ ID,categoria
 853,Deportes
 335,Película y Animación
 232,Película y Animación
-60,Entretenimiento
+60,Película y Animación
 223,Deportes
 462,Deportes
 416,Deportes
