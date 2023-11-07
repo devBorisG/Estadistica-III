@@ -56,7 +56,7 @@ ID,categoria
 735,Deportes
 14,Entretenimiento
 441,Deportes
-951,Película y Animación
+951,Deportes
 761,Deportes
 333,Película y Animación
 644,Deportes
@@ -75,7 +75,7 @@ ID,categoria
 808,Educación
 95,Entretenimiento
 815,Entretenimiento
-162,Película y Animación
+162,Educación
 447,Entretenimiento
 347,Entretenimiento
 320,Deportes
@@ -109,7 +109,7 @@ ID,categoria
 207,Gente y Blogs
 572,Gente y Blogs
 625,Entretenimiento
-956,Entretenimiento
+956,Película y Animación
 254,Deportes
 68,Deportes
 175,Película y Animación
@@ -137,12 +137,12 @@ ID,categoria
 123,Deportes
 264,Deportes
 522,Deportes
-891,Película y Animación
+891,Entretenimiento
 797,Deportes
 669,Deportes
 955,Deportes
-663,Educación
-115,Otros
+663,Película y Animación
+115,Entretenimiento
 169,Entretenimiento
 741,Entretenimiento
 145,Entretenimiento
@@ -151,7 +151,7 @@ ID,categoria
 915,Entretenimiento
 295,Entretenimiento
 629,Entretenimiento
-683,Educación
+683,Película y Animación
 351,Entretenimiento
 621,Entretenimiento
 581,Entretenimiento
@@ -178,7 +178,7 @@ ID,categoria
 705,Entretenimiento
 445,Entretenimiento
 782,Entretenimiento
-805,Educación
+805,Película y Animación
 878,Entretenimiento
 550,Entretenimiento
 838,Entretenimiento
@@ -187,8 +187,8 @@ ID,categoria
 59,Entretenimiento
 853,Deportes
 335,Película y Animación
-232,Película y Animación
-60,Película y Animación
+232,Gente y Blogs
+60,Entretenimiento
 223,Deportes
 462,Deportes
 416,Deportes
