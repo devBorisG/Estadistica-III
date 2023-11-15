@@ -7,4 +7,8 @@
     <orderEntry type="jdk" jdkName="Python 3.12 (Estadistica-III)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="C:\Users\David\Documents\GitHub\Estadistica-III\requirements.txt" />
+    <option name="versionSpecifier" value="Don't specify version" />
+  </component>
 </module>
